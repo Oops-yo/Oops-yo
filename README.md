@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou a Yolanda! 👋
 
-<!--
-**Oops-yo/Oops-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programadora em construção 💻, a caminho de uma nova carreira em tecnologia.
 
-Here are some ideas to get you started:
+## 🌱 O que ando a aprender
+- Python 🐍 (a começar do zero, um passo de cada vez)
+- Git e GitHub
+- Cibersegurança 🔐 (a caminho)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Os meus objetivos
+- Fazer os meus primeiros projetos em Python
+- Publicar aqui tudo o que for aprendendo
+- Explorar a tecnologia e descobrir a área que mais me apaixona
+
+## 📫 Onde me encontrar
+- LinkedIn: www.linkedin.com/in/yolanda-cristina/
+- X: https://x.com/OopsyoC
